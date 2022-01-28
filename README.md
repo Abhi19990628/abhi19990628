@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi19990628&label=Profile%20views&color=0e75b6&style=flat" alt="abhi19990628" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi19990628" alt="abhi19990628" /></a> </p>
-<img align="right" alt="coding" width="600" src="https://www.thehindu.com/education/6o6kn/article32659830.ece/ALTERNATES/LANDSCAPE_1200/21EPBSCODING">
+<img align="right" alt="coding" width="300" src="https://www.thehindu.com/education/6o6kn/article32659830.ece/ALTERNATES/LANDSCAPE_1200/21EPBSCODING">
 
 - 📫 How to reach me **abhiv5976@gmail.com**
 
