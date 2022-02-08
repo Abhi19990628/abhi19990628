@@ -9,7 +9,7 @@ Apart from this , I love to participate in various competitions/contests/Hackath
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi19990628&label=Profile%20views&color=0e75b6&style=flat" alt="abhi19990628" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi19990628" alt="abhi19990628" /></a> </p>
-<img align="right" alt="coding" width="350" src="https://github.com/Abhi19990628/abhi19990628/blob/main/89953-coder.gif">
+<img align="right" alt="coding" width="350" src="https://github.com/Abhi19990628/abhi19990628/blob/main/95365-coder-2.gif">
 
 - 📫 How to reach me **abhiv5976@gmail.com**
 
