@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h4 align="left">🎓 I’m an Open-Source enthusiast & a 3rd year Undergraduate pursuing my bachelor's in Computer Science & Engineering.
-🤗 I am passionate about Mobile app development, Web Dev, Machine Learning, DevOps , Kubernetes & I enjoy learning new things.
+<h1 align="center">Hi 👋, I'M ABHISHEK KUMAR</h1>
+<h4 align="left">🎓 I’m an Open-Source enthusiast & a 4th year Undergraduate pursuing my bachelor's in Computer Science & Engineering.
+🤗 I am passionate about Mobile app development, Web Dev, Machine Learning, DevOps & I enjoy learning new things.
 
 I'm a technology enthusiast and have my hands dirty on various technologies , aiming at building some technological and viable solutions to improve the quality of human life.
 
