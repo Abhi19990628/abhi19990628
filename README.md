@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **CHAT GROUP**
 
-- 🌱 I’m currently learning **NODE JS**
+- 🌱 I’m currently learning **Danjo frame_work**
 
 - 👨‍💻 All of my projects are available at [https://gregarious-lily-58d9dd.netlify.app/](https://gregarious-lily-58d9dd.netlify.app/)
 
-- 💬 Ask me about **FRONT**
+- 💬 Ask me about **BACK-END**
 
 - 📫 How to reach me **abhiv5976@gmail.com**
 
