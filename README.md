@@ -1,4 +1,5 @@
-[![MasterHead][https://app.gemoo.com/share/image-annotation/599826063508799488?codeId=M0By0oZWy928q&origin=imageurlgenerator&card=599826061315178496]
+[![MasterHead][![image](https://github.com/Abhi19990628/abhi19990628/assets/92795729/bf880a6a-6e02-481c-bc17-c0c56e04cf88)
+]
 
 <h1 align="center">Hi 👋, I'm ABHISHEK KUMAR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
