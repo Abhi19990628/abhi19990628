@@ -1,4 +1,4 @@
-[![MasterHead](C:\Users\DOMBZ\Downloads\Minimalist Sunrise Email Header.gif)]
+[![MasterHead](https://drive.google.com/drive/recent)]
 
 <h1 align="center">Hi 👋, I'm ABHISHEK KUMAR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
