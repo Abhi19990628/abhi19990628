@@ -1,4 +1,4 @@
-[![MasterHead]<img aling="center" src="https://drive.google.com/drive/recent">]
+[![MasterHead][https://app.gemoo.com/share/image-annotation/599826063508799488?codeId=M0By0oZWy928q&origin=imageurlgenerator&card=599826061315178496]
 
 <h1 align="center">Hi 👋, I'm ABHISHEK KUMAR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
