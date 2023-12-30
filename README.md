@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-3.png)]
+[![MasterHead](C:\Users\DOMBZ\Downloads\Minimalist Sunrise Email Header.gif)]
 
 <h1 align="center">Hi 👋, I'm ABHISHEK KUMAR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
