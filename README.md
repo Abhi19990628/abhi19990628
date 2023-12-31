@@ -1,4 +1,4 @@
-MasterHead![image](https://github.com/Abhi19990628/abhi19990628/assets/92795729/bf880a6a-6e02-481c-bc17-c0c56e04cf88)
+![image](https://github.com/Abhi19990628/abhi19990628/assets/92795729/bf880a6a-6e02-481c-bc17-c0c56e04cf88)
 
 
 <h1 align="left ">Hi 👋,
