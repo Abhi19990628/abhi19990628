@@ -1,7 +1,7 @@
 ![image](https://github.com/Abhi19990628/abhi19990628/assets/92795729/bf880a6a-6e02-481c-bc17-c0c56e04cf88)
 
 
-<h1 align="left">Hi..(👋) <br> I'm abhishek kumar </h1>
+<h1 align="left">Hi.(👋) <br> I'm abhishek kumar </h1>
 <h3 align="center">A passionate back-end developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi19990628&label=Profile%20views&color=0e75b6&style=flat" alt="abhi19990628" />
