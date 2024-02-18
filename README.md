@@ -39,31 +39,33 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="34" alt="python logo"  />
-  <img width="7" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=django" height="34" alt="django logo"  />
-  <img width="7" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=html" height="34" alt="html5 logo"  />
-  <img width="7" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=css" height="34" alt="css3 logo"  />
-  <img width="7" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=js" height="34" alt="javascript logo"  />
-  <img width="7" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=postgres" height="34" alt="postgresql logo"  />
-  <img width="7" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=github" height="34" alt="github logo"  />
-  <img width="7" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="34" alt="bootstrap logo"  />
-  <img width="7" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=vscode" height="34" alt="vscode logo"  />
-  <img width="7" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=postman" height="34" alt="postman logo"  />
-  <img width="7" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=flask" height="34" alt="flask logo"  />
-  <img width="7" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=docker" height="34" alt="docker logo"  />
-  <img width="7" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="34" alt="kubernetes logo"  />
 </div>
+
+###
 
 ###
 ###
