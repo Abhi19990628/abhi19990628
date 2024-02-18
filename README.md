@@ -4,7 +4,7 @@
 <h1 align="left">Hi..(👋) <br> I'm abhishek kumar </h1>
 <h3 align="center">A passionate back-end developer from India</h3>
 
-<br clear="both">
+
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=abhi19990628.abhi19990628&left_color=gray&right_color=burlywood&left_text=profile%20%20views" />
 
