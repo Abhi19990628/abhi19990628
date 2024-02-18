@@ -4,9 +4,9 @@
 <h1 align="left">Hi..(👋) <br> I'm abhishek kumar </h1>
 <h3 align="center">A passionate back-end developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi19990628&label=Profile%20views&color=0e75b6&style=flat" alt="abhi19990628" />
-
-
+<div align="left">
+  <img src="https://profile-counter.glitch.me/abhi19990628/count.svg?"  />
+</div>
 
 - 🔭 I’m currently working on :- **Ecommer web**
 
