@@ -10,17 +10,17 @@
 
 
 
-- 🔭 I’m currently working on :- **Ecommer web**
+- 🔭 I’m currently working on :- 'Ecommer web'
 
-- 🌱 I’m currently learning :- **Danjo frame_work**
+- 🌱 I’m currently learning :- 'Danjo frame_work'
 
 - 👨‍💻 All of my projects are available at [https://gregarious-lily-58d9dd.netlify.app/](https://gregarious-lily-58d9dd.netlify.app/)
 
-- 💬 Ask me about :- **BACK-END and DATABASE **
+- 💬 Ask me about :- 'BACK-END' , 'DATABASE'
 
-- 📫 How to reach me **abhiv5976@gmail.com**
+- 📫 How to reach me:- 'abhiv5976@gmail.com'
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1r8skkS7crR_fdEa_UhiEoiO9ismnC_ey/view?usp=drive_link](https://drive.google.com/file/d/1r8skkS7crR_fdEa_UhiEoiO9ismnC_ey/view?usp=drive_link)
+- 📄 Know about my experiences:- [https://drive.google.com/file/d/1r8skkS7crR_fdEa_UhiEoiO9ismnC_ey/view?usp=drive_link](https://drive.google.com/file/d/1r8skkS7crR_fdEa_UhiEoiO9ismnC_ey/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <br clear="both">
