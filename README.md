@@ -89,8 +89,7 @@
 ###
 
 <div align="center">
-  <img src="https://githubreadmestats.vercel.app/
-    apiusername=abhi19990628&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+   <img src="https://github-readme-stats.vercel.app/api?username=abhi19990628&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> 
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi19990628&locale=en&hide_title=false&layout=compact&card_width=370&langs_count=8&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph" /> 
 </div>
@@ -102,3 +101,5 @@
    <img src="https://streak-stats.demolab.com?user=abhi19990628&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=7&order=3" height="150" alt="streak graph"  />
 
 ###
+<br clear="both">
+
