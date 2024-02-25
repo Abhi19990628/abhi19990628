@@ -2,7 +2,7 @@
 
 
 
-<h1 align="left">Hi...(👋) I'm abhishek kumar </h1>
+<h1 align="left">Hi...(👋) I'm Abhishek kumar </h1>
 <h3 align="center">A passionate back-end developer from India</h3>
 
 
