@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning :- Danjo frame_work
 
-- 👨‍💻 All of my projects are available at [https://gregarious-lily-58d9dd.netlify.app/](https://gregarious-lily-58d9dd.netlify.app/)
+- 👨‍💻 All of my projects are available at :- [https://gregarious-lily-58d9dd.netlify.app/](https://gregarious-lily-58d9dd.netlify.app/)
 
 - 💬 Ask me about :- BACK-END & DATABASE
 
