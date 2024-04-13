@@ -1,6 +1,6 @@
 ![image](https://github.com/Abhi19990628/abhi19990628/assets/92795729/bf880a6a-6e02-481c-bc17-c0c56e04cf88)
 
-<h1 align="left">Hi(👋)..I'm Abhishek kumar</h1>
+<h1 align="left">Hi(👋)....I'm Abhishek kumar</h1>
 <h3 align="center">A passionate back-end developer from India</h3>
 
 
