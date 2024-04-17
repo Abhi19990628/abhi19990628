@@ -18,7 +18,7 @@
 
 - 📫 How to reach me:- abhiv5976@gmail.com
 
-- 📄 Know about my experiences:- [https://drive.google.com/drive/u/0/home)
+- 📄 Know about my experiences:- [https://dochub.com/abhiv5976/DL7JlEGV13BMAY0RrWe0oa/abhishek-1-pdf)
 
 <h3 align="left">Connect with me:</h3>
 <br clear="both">
