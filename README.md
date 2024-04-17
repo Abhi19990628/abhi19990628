@@ -8,9 +8,9 @@
 
 
 
-- 🔭 I’m currently working on :- Ecommer web
+- 🔭 I’m currently working on :- django_framework / apis
 
-- 🌱 I’m currently learning :- Danjo frame_work
+- 🌱 I’m currently learning :- AI/ML
 
 - 👨‍💻 All of my projects are available at :- [https://gregarious-lily-58d9dd.netlify.app/](https://gregarious-lily-58d9dd.netlify.app/)
 
