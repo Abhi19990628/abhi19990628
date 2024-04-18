@@ -8,9 +8,9 @@
 
 
 
-- 🔭 I’m currently working on :- django_framework / apis
+- 🔭 I’m currently working on :- django_framework / apis / post
 
-- 🌱 I’m currently learning :- AI/ML
+- 🌱 I’m currently learning :- Ai/ml  and panda
 
 - 👨‍💻 All of my projects are available at :- [https://gregarious-lily-58d9dd.netlify.app/](https://gregarious-lily-58d9dd.netlify.app/)
 
