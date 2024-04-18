@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on :- django_framework / apis / post
 
-- 🌱 I’m currently learning :- Ai/ml  and panda
+- 🌱 I’m currently learning :- panda lib and AI/ML
 
 - 👨‍💻 All of my projects are available at :- [https://gregarious-lily-58d9dd.netlify.app/](https://gregarious-lily-58d9dd.netlify.app/)
 
