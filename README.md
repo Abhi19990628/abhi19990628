@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on :- django_framework / apis / post
+- 🔭 I’m currently working on :- django_framework / apis 
 
 - 🌱 I’m currently learning :- panda lib and AI/ML
 
