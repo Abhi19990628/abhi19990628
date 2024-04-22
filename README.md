@@ -101,8 +101,7 @@
 
 ###
 <br clear="both">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi19990628&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-
+ 
 
 ###
 
