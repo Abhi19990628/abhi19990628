@@ -75,7 +75,7 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="39" alt="kubernetes logo"  />
 </div>
-<img src="https://raw.githubusercontent.com/abhi19990628/abhi19990628/output/snake.svg" alt="Snake animation" />
+
 
 ###
 ###
