@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on :- django_framework / apis 
+- 🔭 I’m currently working on :- django ,  rest_framework / fastapis 
 
 - 🌱 I’m currently learning :- panda lib and AI/ML
 
