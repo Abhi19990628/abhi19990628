@@ -73,7 +73,7 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=docker" height="39" alt="docker logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="39" alt="kubernetes logo"  />
+  
 </div>
 
 
