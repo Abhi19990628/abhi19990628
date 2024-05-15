@@ -71,8 +71,11 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=flask" height="39" alt="flask logo"  />
   <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=docker" height="39" alt="docker logo"  />
   <img width="5" />
+  
   
 </div>
 
