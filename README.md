@@ -53,6 +53,8 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=django" height="39" alt="django logo"  />
   <img width="5" />
+  <img src="https://skillicons.dev/icons?i=flask" height="39" alt="flask logo"  />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=html" height="39" alt="html5 logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=css" height="39" alt="css3 logo"  />
@@ -60,6 +62,8 @@
   <img src="https://skillicons.dev/icons?i=js" height="39" alt="javascript logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=postgres" height="39" alt="postgresql logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  /> 
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=github" height="39" alt="github logo"  />
   <img width="5" />
@@ -71,10 +75,7 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=flask" height="39" alt="flask logo"  />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="5" />
   <img src="https://skillicons.dev/icons?i=docker" height="39" alt="docker logo"  />
-  <img width="5" />
   
   
 </div>
