@@ -76,6 +76,11 @@
   <img src="https://skillicons.dev/icons?i=flask" height="39" alt="flask logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=docker" height="39" alt="docker logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="39" alt="elixir logo"  />
+</div>
+
+###
   
   
 </div>
