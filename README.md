@@ -7,8 +7,6 @@
 <h3 align="center">A passionate back-end developer from India</h3>
 
 
-    
-
 
 
 - 🔭 I’m currently working on :- django ,  rest_framework / fastapi
